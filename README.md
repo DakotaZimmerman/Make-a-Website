@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the DakotaZimmerman homepage!
 
 You can use the [editor on GitHub](https://github.com/DakotaZimmerman/Make-a-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
